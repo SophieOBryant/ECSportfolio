@@ -14,14 +14,14 @@ a:hover, a:active, a:focus {
      text-decoration: underline;
 }
 .homePage {
-	background: #FEFCFB;
+	background: #FDF8CD;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #C5E3B8
 	text-align: center;
 	margin: 0px;
 	padding: 5;
